@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ I love reading mangas and watching anime. TOP 3 ? Naruto, Haikyuu!!, GTO.<br><br><br>📚 Some quotes that I particulary love:<br>• “He who would climb the ladder, must begin at the bottom.”<br><br>• “Today you are the defeated, but, what will you become tomorrow?”<br><br>• “He knows that it isn’t a given for you to be okay. For everything to be all right. But still he trains. He practices. He disciplines himself. Working until ‘being okay’ has become a habit.”</p>
+<p align="left">✨ I love reading mangas and watching anime. TOP 3 ? Naruto, Haikyuu!!, GTO.<br><br><br>📚 Some quotes that I particularly love:<br>• “He who would climb the ladder, must begin at the bottom.”<br><br>• “Today you are the defeated, but, what will you become tomorrow?”<br><br>• “He knows that it isn’t a given for you to be okay. For everything to be all right. But still he trains. He practices. He disciplines himself. Working until ‘being okay’ has become a habit.”</p>
 
 ###
 
