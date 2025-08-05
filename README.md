@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm currently working on some small C++ projects.<br>📚 I'm currently learning to work with CSS Frameworks. <br>🎯 Ultimate Goal: Becoming so good that someone with no IT-knowledge would love diving in.<br>💬 Contact me: yassir.cherdouh@ensia.edu.dz || yassir.cherdouh13@gmail.com || Linkedin shared below.</p>
+<p align="left">✨ I'm currently working on some web applications (namely, ENSIApedia website and FOSS Flash blog).<br>📚 I'm currently learning advanced Data Science & Machine Learning concepts. <br>🎯 Ultimate Goal: Becoming so good that someone with no IT-knowledge would love diving in.<br>💬 Contact me: yassir.cherdouh@ensia.edu.dz || yassir.cherdouh13@gmail.com || Linkedin shared below.</p>
 
 ###
 
