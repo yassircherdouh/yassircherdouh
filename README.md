@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yassir CHERDOUH</h1>
-<h3 align="center">3rd Year ENSIA Student | Associate Data Scientist | Web Developer | AI/ML Enthusiast</h3>
+<h3 align="center">3Y ENSIA Student | Associate Data Scientist | Web Developer | AI/ML Enthusiast</h3>
 
 - 🔭 I’m currently working on **on some web applications**
 
 - 🌱 I’m currently learning **Advanced Data Science & Machine Learning concepts**
 
-- 👨‍💻 My portfolio: [https://yassircherdouh.netlify.app/](https://yassircherdouh.netlify.app/)
-
-- 📝 I regularly write articles on FOSS Flash [http://fossflash-vercel.app/](http://fossflash-vercel.app/) **Coming Soon**
+- 👨‍💻 My portfolio: [https://yassircherdouh.vercel.app](https://yassircherdouh.vercel.app)
 
 - 🎯 Ultimate Goal: **Becoming so good that someone with no IT-knowledge would love diving in.**
 
