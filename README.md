@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yassir CHERDOUH</h1>
-<h3 align="center">3Y ENSIA Student | Associate Data Scientist | Web Developer | AI/ML Enthusiast</h3>
+<p align="center">
+  <img src="assets/banner.png" alt="banner" />
+</p>
 
 <h2 align="left">About me</h2>
 
