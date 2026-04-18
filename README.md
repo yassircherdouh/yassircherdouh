@@ -5,7 +5,7 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-🎓 AI & DS student at The National School of Artificial Intelligence.<br>
+🎓 AI & DS student at <a href="https://www.ensia.edu.dz" target="_blank">The National School of Artificial Intelligence (ENSIA)</a>.<br>
   
 💻 I build web applications and train systems to think.<br>
 
