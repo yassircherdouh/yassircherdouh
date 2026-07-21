@@ -1,0 +1,4 @@
+scratch_*
+*.tmp
+.DS_Store
+.remember/
